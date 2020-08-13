@@ -1,10 +1,16 @@
-# run-buddy
-## Purpose 
-A website that offers fitness training services
-## Build with
-*html
-*css
-##website 
-https://maddeimoffat95.github.io/run-buddy/
+# Run Buddy, Inc
+
+## Purpose
+A website that offers fitness training services. 
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
 ## Contribution
-Made With ❤️ by Madelynn Moffat
+Made with ❤️ by Madeylnn Moffat
+
+### ©️2019 Run Buddy, Inc 
